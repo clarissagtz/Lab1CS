@@ -53,6 +53,7 @@ Classes I'm really interested in taking:
 
 To go back to top click [here](#clarissas-page) 
 
+Thank you for visit my page!
 [To go to original README file](./README.md)
 
 ![the-end](the-end.jpeg)
