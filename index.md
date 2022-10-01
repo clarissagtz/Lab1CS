@@ -1,9 +1,22 @@
-## Clarissas Page 
+## Clarissa's Page 
 ###### *September 29, 2020*
 
-> This is my lat year at UCSD.
+> This is my last year at UCSD.
 
-// NEED TO ADD QUOTING CODE 
+My name is :
+```
+System.out.println("Clarissa Gutierrez");
+```
+
+## Code Fun fact
+From the different types of loops that exist, the one I like the most is the for loop.
+
+```
+for( int i = 0; i < 100 ; i++ ){
+    System.out.println(i);
+}
+```
+
 This is an example of an infinite loop:
 
 ```
@@ -27,6 +40,7 @@ else{
 ## Songs 
 One song that I liked a lot and is very inspiring is: [I lived- One Republic](https://www.youtube.com/watch?v=z0rxydSolwU)
 
+## UCSD spots
 My favorite spot at campus is Geisel Library: 
 ![library at ucsd ](library.jpeg)
 
@@ -53,7 +67,8 @@ Classes I'm really interested in taking:
 
 To go back to top click [here](#clarissas-page) 
 
-Thank you for visit my page!
+Thank you for visiting my page!
+
 [To go to original README file](./README.md)
 
 ![the-end](the-end.jpeg)
