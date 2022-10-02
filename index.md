@@ -15,7 +15,7 @@ for( int i = 0; i < 100 ; i++ ){
 ```
 
 ## Songs 
-One song that I liked a lot and is very inspiring is: [I lived- One Republic](https://www.youtube.com/watch?v=z0rxydSolwU)
+One song that I like a lot and is very inspiring is: [I lived- One Republic](https://www.youtube.com/watch?v=z0rxydSolwU)
 
 ## UCSD spots
 My favorite spot at campus is Geisel Library: 
