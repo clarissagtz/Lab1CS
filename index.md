@@ -43,7 +43,7 @@ Classes I'm really interested in taking:
 - [ ] COGS 118A/B
 
 
-A fun [meme](meme4.png)
+A fun [meme](meme4.png) that had happens to me.
 
 To go back to top click [here](#clarissas-page) 
 
