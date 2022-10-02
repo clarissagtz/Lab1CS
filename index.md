@@ -42,10 +42,12 @@ Classes I'm really interested in taking:
 - [ ] CSE 151A
 - [ ] COGS 118A/B
 
+
+A fun [meme](meme4.png)
+
 To go back to top click [here](#clarissas-page) 
 
-Thank you for visiting my page!
 
-[To go to original README file](./README.md)
+Thank you for visiting my page!
 
 ![the-end](the-end.jpeg)
